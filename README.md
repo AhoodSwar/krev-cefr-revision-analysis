@@ -1,4 +1,4 @@
-# KUPA-KEYS Revision13: Revision-Process Feature Extraction and Ordinal CEFR Modelling
+# KUPA-KEYS Revision Analysis: Revision-Process Feature Extraction and Ordinal CEFR Modelling
 
 This repository contains the reproducible analysis script used to
 extract 13 revision-process features from KUPA-KEYS Task 2 keystroke
