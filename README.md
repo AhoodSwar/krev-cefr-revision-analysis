@@ -7,6 +7,16 @@ ordinal logistic regression.
 
 The repository is anonymised for review.
 
+## Software requirements
+
+The analysis was run using Python 3.12.0 with the following package versions:
+
+- numpy 2.4.2
+- pandas 3.0.1
+- scikit-learn 1.8.0
+- mord 0.7
+- matplotlib 3.10.8
+
 ## Repository contents
 
 -   `K-REV_KUPA_KEYS_CLEAN.py` ---
@@ -18,7 +28,12 @@ features, constructs the composite CEFR outcome, applies the study's
 cross-task quality-control exclusions, and evaluates the final ordinal
 model using 10-fold cross-validation.
 
-## Data
+
+## Data availability
+
+The analysis uses two datasets. KUPA-KEYS is publicly available,
+whereas the second dataset is still not publicly available.
+Instructions for providing the required input files are given below.
 
 The script uses the publicly available KUPA-KEYS dataset:
 
