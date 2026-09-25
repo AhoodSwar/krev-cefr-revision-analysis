@@ -7,15 +7,13 @@ ordinal logistic regression.
 
 The repository is anonymised for review.
 
-## Software requirements
+## Requirements
 
-The analysis was run using Python 3.12.0 with the following package versions:
+The analysis was conducted using Python 3.12.0.
 
-- numpy 2.4.2
-- pandas 3.0.1
-- scikit-learn 1.8.0
-- mord 0.7
-- matplotlib 3.10.8
+Install the required Python packages using:
+
+    pip install -r requirements.txt
 
 ## Repository contents
 
