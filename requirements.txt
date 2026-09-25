@@ -1,0 +1,5 @@
+krev==0.1.1
+mord==0.7
+numpy==2.4.2
+pandas==3.0.1
+scikit-learn==1.8.0
